@@ -6,14 +6,7 @@ class Footer extends Component {
     return (
       <nav className="FooterItems">
         <div className="">
-          <div className="footerleft">
-            <div>
-              <h1 className="News">Get Exclusive News</h1>
-              <p>Sign up Now!</p>
-            </div>
-            <div></div>
-          </div>
-          <div className="footerright">
+          <div className="footertop">
             <div>
               <h1 className="News">Get Exclusive News</h1>
               <p>Sign up Now!</p>
@@ -27,6 +20,14 @@ class Footer extends Component {
               />
               <button className="sign-up">SIGN UP</button>
             </div>
+          </div>
+          <div className="footerbottom">
+            <div>
+              <h1 className="logo1">
+                <i className="fa-solid fa-square"></i> ProperT1
+              </h1>
+            </div>
+            <div></div>
           </div>
         </div>
       </nav>
