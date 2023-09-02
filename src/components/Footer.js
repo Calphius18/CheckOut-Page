@@ -11,6 +11,13 @@ class Footer extends Component {
               <h1 className="News">Get Exclusive News</h1>
               <p>Sign up Now!</p>
             </div>
+            <div></div>
+          </div>
+          <div className="footerright">
+            <div>
+              <h1 className="News">Get Exclusive News</h1>
+              <p>Sign up Now!</p>
+            </div>
             <div>
               <input
                 id="email"
@@ -18,6 +25,7 @@ class Footer extends Component {
                 placeholder="Your Email"
                 required
               />
+              <button className="sign-up">SIGN UP</button>
             </div>
           </div>
         </div>
