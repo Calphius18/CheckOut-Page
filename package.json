@@ -6,13 +6,16 @@
   "main": "src/index.js",
   "dependencies": {
     "@react-icons/all-files": "4.1.0",
+    "bootstrap": "^5.3.2",
     "loader-utils": "3.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icon": "1.0.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/plugin-transform-private-property-in-object": "^7.22.11",
     "@babel/runtime": "7.13.8",
     "typescript": "4.1.3"
   },

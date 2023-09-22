@@ -11,7 +11,7 @@ class Navbar extends Component {
     return (
       <nav className="NavbarItems">
         <h1 className="logo">
-          ProperT1 <i className="fa-solid fa-square"></i>
+        <i className="fa-solid fa-square"></i> ProperT1
         </h1>
         <div className="menu-icons" onClick={this.handleClick}>
           <i
