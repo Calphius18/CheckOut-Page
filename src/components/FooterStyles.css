@@ -1,17 +1,18 @@
 .FooterItems {
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .footerbottom {
   position: absolute;
   width: 100%;
-  height: 200px;
-  margin-top: 20px;
+  height: 150px;
+  margin-top: 50px;
   margin-bottom: 20px;
   display: flex;
   background-color: white;
-  padding: 0px;
+  padding: 20px;
 }
 .footertop {
   position: relative;
@@ -36,6 +37,9 @@
   margin-right: 30px;
   border: 2px solid;
   cursor: pointer;
+}
+a {
+  color: gray;
 }
 
 input,
