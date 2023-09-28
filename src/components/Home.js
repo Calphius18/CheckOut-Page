@@ -8,9 +8,9 @@ function Home() {
           <div className="home-left">
             <h6>Checkout</h6>
             <p className="navigate">
-              <span className="information">Information</span>{" "}
-              <i class="fa-solid fa-forward"></i> Document Upload{" "}
-              <i class="fa-solid fa-forward"></i> Payment{" "}
+              <span className="information">Information</span>
+              <i class="fa-solid fa-forward"></i> Document Upload
+              <i class="fa-solid fa-forward"></i> Payment
               <i class="fa-solid fa-forward"></i> Confirmation
             </p>
           </div>
