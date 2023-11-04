@@ -1,37 +1,37 @@
 export const MenuData = [
   {
     title: "Home",
-    url: "#",
+    url: "https://calphius-portfolio-app.onrender.com/",
     cName: "nav-links",
     icon: "fa-solid fa-house-user"
   },
   {
     title: "My Properties",
-    url: "#",
+    url: "https://calphius-portfolio-app.onrender.com/",
     cName: "nav-links",
     icon: "fa-solid fa-building"
   },
   {
     title: "About",
-    url: "#",
+    url: "https://calphius-portfolio-app.onrender.com/",
     cName: "nav-links",
     icon: "fa-solid fa-circle-info"
   },
   {
     title: "Contact",
-    url: "#",
+    url: "https://calphius-portfolio-app.onrender.com/",
     cName: "nav-links",
     icon: "fa-solid fa-address-book"
   },
   {
     title: "",
-    url: "#",
+    url: "https://calphius-portfolio-app.onrender.com/",
     cName: "nav-links",
     icon: "fa-solid fa-magnifying-glass"
   },
   {
     title: "",
-    url: "#",
+    url: "https://calphius-portfolio-app.onrender.com/",
     cName: "nav-links",
     icon: "fa-solid fa-user"
   }
