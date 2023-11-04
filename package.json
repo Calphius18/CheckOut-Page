@@ -13,6 +13,10 @@
     "react-icon": "1.0.0",
     "react-scripts": "^5.0.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Calphius18/CheckOut-Page.git"
+  },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@babel/plugin-transform-private-property-in-object": "^7.22.11",
